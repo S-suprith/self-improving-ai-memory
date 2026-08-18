@@ -1,15 +1,3 @@
-### 💰 Project worth
-
-For a fresher AI/ML resume, this **Self-Improving AI Memory System (Levels 1–6)** is a **strong portfolio project**.
-
-* **Basic implementation:** ~₹6–10 LPA profile
-* **Good implementation + GitHub + deployment:** ~₹10–15 LPA profile
-* **Research-grade Level 6/7 + evaluation + strong deployment:** **₹15–20+ LPA potential**
-
-The project alone doesn't guarantee an LPA; your **DSA, Python, ML, system design, interviews, and ability to explain the architecture** matter too.
-
----
-
 # `README.md`
 
 ````markdown
